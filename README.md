@@ -1,5 +1,3 @@
-Great! Here's a sample `README.md` file you can use for your XOR Neural Network project to post on GitHub. It includes a brief project description, setup instructions, and an example of how to run the code.
-
 ### `README.md`
 
 ```md
